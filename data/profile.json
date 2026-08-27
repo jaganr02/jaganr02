@@ -1,0 +1,163 @@
+{
+  "name": "R JAGAN",
+  "username": "jaganr02",
+  "headline": "AI Engineer | Generative AI & Multi-Agent Systems | Machine Learning & FastAPI Developer",
+  "summary": "AI & Data Science engineer focused on architecting autonomous LangGraph multi-agent research pipelines, high-precision RAG systems, explainable machine learning risk engines, and production-grade asynchronous FastAPI microservices.",
+  "location": "Thiruvarur / Coimbatore, Tamil Nadu, India",
+  "education": {
+    "degree": "B.Tech in Artificial Intelligence and Data Science",
+    "institution": "Sri Shakthi Institute of Engineering and Technology",
+    "location": "Coimbatore, Tamil Nadu",
+    "cgpa": "8.04 / 10",
+    "graduation_year": "2027",
+    "secondary_education": {
+      "course": "Higher Secondary Certificate (HSC)",
+      "institution": "St. Anthony's Matriculation Higher Secondary School",
+      "location": "Thiruvarur",
+      "percentage": "82.66%",
+      "year": "2023"
+    }
+  },
+  "career_focus": [
+    "Autonomous Multi-Agent Architectures (LangGraph)",
+    "Generative AI, RAG & Vector Databases (Qdrant, Gemini, Groq)",
+    "Machine Learning & Explainable AI (Scikit-Learn, Random Forest, TF-IDF)",
+    "High-Performance Asynchronous APIs (FastAPI, Docker, Python)",
+    "Full-Stack AI Application Engineering (React, MongoDB, Go)"
+  ],
+  "core_skills": {
+    "programming_languages": ["Python", "Go (Golang)", "JavaScript", "TypeScript", "SQL"],
+    "generative_ai_and_agents": [
+      "LangGraph (Multi-Agent State Machines)",
+      "LangChain",
+      "Retrieval-Augmented Generation (RAG)",
+      "Anthropic Model Context Protocol (MCP)",
+      "Prompt Engineering (Few-shot, CoT)",
+      "Google Gemini API & Embeddings",
+      "Groq LLM Inference"
+    ],
+    "machine_learning_and_nlp": [
+      "Scikit-Learn",
+      "Pandas",
+      "NumPy",
+      "TF-IDF Vectorization",
+      "Logistic Regression",
+      "Decision Trees & Random Forests",
+      "Model Interpretability & Explainability"
+    ],
+    "backend_and_database": [
+      "FastAPI (Async, Pydantic, SSE Streaming)",
+      "Flask",
+      "RESTful API Design",
+      "Qdrant (Vector Database)",
+      "MongoDB",
+      "MySQL"
+    ],
+    "developer_tools_and_devops": [
+      "Docker & Containerization",
+      "Git & GitHub Version Control",
+      "VS Code",
+      "Linux / Bash",
+      "Postman"
+    ]
+  },
+  "featured_projects": [
+    {
+      "name": "MarketPulse AI — Autonomous Market Research Assistant",
+      "repository": "https://github.com/jaganr02/MarketPulse-AI-Market-Research-Assistant",
+      "role": "Flagship GenAI & Multi-Agent Architecture",
+      "tagline": "Autonomous Multi-Agent Competitive Intelligence & Market Research Engine",
+      "stack": ["Python", "FastAPI", "LangGraph", "Gemini API", "Tavily API", "Qdrant", "Docker"],
+      "description": "Multi-agent research engine orchestrating autonomous research, competitor intelligence, and synthesis with Qdrant vector retrieval and real-time SSE streaming.",
+      "highlights": [
+        "LangGraph state machine coordinating Searcher, Analyzer, Critic, and Synthesizer agents",
+        "Vector search integration via Qdrant for semantic knowledge retrieval",
+        "FastAPI backend with Server-Sent Events (SSE) for live streaming progress",
+        "Dockerized production deployment"
+      ]
+    },
+    {
+      "name": "AI Resume Analyzer & ATS Evaluator",
+      "repository": "https://github.com/jaganr02/AI-Resume-Analyzer",
+      "role": "Flagship Full-Stack AI Application",
+      "tagline": "Intelligent ATS Scoring, Skill Gap Analysis & Document Parsing Engine",
+      "stack": ["React", "FastAPI", "Python", "Groq LLM", "MongoDB", "PyPDF", "python-docx"],
+      "description": "Full-stack resume diagnostic engine offering semantic ATS matching, skill gap discovery, and actionable resume optimization via Groq high-speed inference.",
+      "highlights": [
+        "Multi-format document parsing (PDF & DOCX)",
+        "Groq-powered LLaMA-3 semantic skill extraction and scoring",
+        "FastAPI REST endpoints integrated with MongoDB persistence and a React UI"
+      ]
+    },
+    {
+      "name": "AI-Powered Loan Risk Prediction System",
+      "repository": "https://github.com/jaganr02/AI-Powered-Loan-Risk-Prediction-System",
+      "role": "Flagship Machine Learning & Explainability",
+      "tagline": "Credit Risk Classifier with Transparent Rule-Based Reasoning Engine",
+      "stack": ["Python", "Scikit-Learn", "Pandas", "NumPy", "Flask"],
+      "description": "Machine learning credit assessment system comparing Logistic Regression, Decision Trees, and Random Forest models, coupled with an explicit rule-based explainability layer.",
+      "highlights": [
+        "Trained and cross-validated multi-model classifier suite",
+        "Rule-based reasoning engine translating feature weights into human-readable risk factors",
+        "Interactive web dashboard for instant applicant evaluation"
+      ]
+    },
+    {
+      "name": "Auto Email & Support Ticket Categorizer",
+      "repository": "https://github.com/jaganr02/auto-ticket-categorizer",
+      "role": "Applied NLP & Intelligent Triage",
+      "tagline": "Real-time Support Ticket Classification & Confidence-based Routing System",
+      "stack": ["Python", "FastAPI", "Scikit-Learn", "TF-IDF", "HTML/CSS"],
+      "description": "Automated helpdesk triage pipeline routing incoming customer inquiries into Billing, Tech, HR, or General queues with low-confidence fallback alerts.",
+      "highlights": [
+        "TF-IDF text vectorization and Logistic Regression department classifier",
+        "Prediction confidence calibration with automated flag for human intervention",
+        "FastAPI microservice interface"
+      ]
+    },
+    {
+      "name": "GoDocuMind — Document Analytics Engine",
+      "repository": "https://github.com/jaganr02/Godocumind",
+      "role": "Systems Engineering & High-Speed Parsing",
+      "tagline": "Golang-based Document Insights & Parsing Service",
+      "stack": ["Go (Golang)", "REST APIs", "Modular Document Parsers"],
+      "description": "High-throughput document inspection microservice extracting structural metrics, reading time estimations, keywords, and summaries.",
+      "highlights": [
+        "Concurrent file parser supporting TXT, PDF, and DOCX formats",
+        "RESTful API architecture built natively in Go"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "MCP: Build Rich-Context AI Apps with Anthropic",
+      "issuer": "Anthropic",
+      "year": "2026"
+    },
+    {
+      "name": "Prompt Engineering for Everyone",
+      "issuer": "DeepLearning.AI",
+      "year": "2026"
+    },
+    {
+      "name": "GenAI Master Projects (OpenAI, LangChain & RAG)",
+      "issuer": "Udemy",
+      "year": "2026"
+    },
+    {
+      "name": "MySQL Database Masterclass",
+      "issuer": "Udemy",
+      "year": "2025"
+    }
+  ],
+  "contact": {
+    "email": "rajajagan697@gmail.com",
+    "github": "https://github.com/jaganr02",
+    "linkedin": "https://www.linkedin.com/in/r-jagan-52bb94289/",
+    "portfolio": "https://github.com/jaganr02/JAGAN_R_PORTFOLIO"
+  },
+  "visual_assets": {
+    "profile_photo": "assets/profile-photo.jpg",
+    "hero_banner": "assets/hero.svg"
+  }
+}
