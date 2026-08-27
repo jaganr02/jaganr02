@@ -59,14 +59,6 @@ Reach me directly at **[rajajagan697@gmail.com](mailto:rajajagan697@gmail.com)**
 
 ---
 
-## Activity
-
-<p align="center">
-  <img src="assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%">
-</p>
-
----
-
 ## Contact
 
 - **LinkedIn**: [linkedin.com/in/r-jagan-52bb94289](https://www.linkedin.com/in/r-jagan-52bb94289/)
